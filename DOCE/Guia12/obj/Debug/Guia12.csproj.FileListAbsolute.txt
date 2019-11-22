@@ -1,0 +1,7 @@
+C:\Users\luisa\source\repos\DOCE\Guia12\bin\Debug\Guia12.exe.config
+C:\Users\luisa\source\repos\DOCE\Guia12\bin\Debug\Guia12.exe
+C:\Users\luisa\source\repos\DOCE\Guia12\bin\Debug\Guia12.pdb
+C:\Users\luisa\source\repos\DOCE\Guia12\obj\Debug\Guia12.csprojAssemblyReference.cache
+C:\Users\luisa\source\repos\DOCE\Guia12\obj\Debug\Guia12.csproj.CoreCompileInputs.cache
+C:\Users\luisa\source\repos\DOCE\Guia12\obj\Debug\Guia12.exe
+C:\Users\luisa\source\repos\DOCE\Guia12\obj\Debug\Guia12.pdb
